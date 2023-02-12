@@ -3,7 +3,8 @@ Aufgabe: Endabgabe EIA2
 Name: Bastian Aberle
 Matrikel: 271166
 Datum: 12.02.23
-Quellen: EIA2 - Videos, W3Schools, Lisa Blindenhöfer, Amin Lakhal 
+Quellen: EIA2 - Videos, W3Schools
+unter zusammenarbeit mit: Lisa Blindenhöfer, Amin Lakhal 
 */
 
 namespace Endabgabe_EIA2 {
