@@ -1,3 +1,10 @@
+/*
+Aufgabe: Endabgabe EIA2
+Name: Bastian Aberle
+Matrikel: 271166
+Datum: 12.02.23
+Quellen: EIA2 - Videos, W3Schools, Lisa Blindenhöfer, Amin Lakhal
+*/
 var Endabgabe_EIA2;
 (function (Endabgabe_EIA2) {
     //Onload Listener -> Handle Load
